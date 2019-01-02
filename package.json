@@ -1,0 +1,15 @@
+{
+  "name": "blockly-node",
+  "version": "0.1.0",
+  "description": "Extracted from Blockly",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teeceepee/blockly-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
